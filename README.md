@@ -3,7 +3,7 @@
 This is bundler for pump.fun, enabling you to launch a token with 20 different wallets and profiles. 
 From this repositery, you can bundle 20 buy transactions for pump.fun and can have basic understanding about solana bundler.
 It's the basic free version and I developed advanced version for it.
-Feel free to contact with me on Whatsapp[https://wa.me/13137423660] or Telegram[https://t.me/DevCutup]
+
 
 
 ## How to use it
@@ -12,7 +12,7 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/cutupdev/Solana-Pumpfun-Bundler.git
+    git clone https://github.com/spectrecoder/solana-pumpfun-bundler.git
     ```
 
 2. **Navigate to the Project Directory:**
